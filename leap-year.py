@@ -1,5 +1,5 @@
 # To get year (integer input) from the user
-# This is my first explanation
+# This is my first try hilal
 year = int(input("Enter a year: "))
 
 if (year % 4) == 0:
